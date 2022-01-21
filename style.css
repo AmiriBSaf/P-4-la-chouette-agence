@@ -361,7 +361,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: -12rem;
+        right: 10rem;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -1140,9 +1140,12 @@ form{
 .text-center{
     text-align: center;
 }
-@media (max-width: 867px){
+
+@media (max-width: 860px){
     .row-form{
         display: flex;
+        align-items: center;
         flex-direction: column;
+        
     }
 }
