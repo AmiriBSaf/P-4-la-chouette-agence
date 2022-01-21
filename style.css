@@ -1141,7 +1141,7 @@ form{
     text-align: center;
 }
 
-@media (max-width: 860px){
+@media (max-width: 767px){
     .row-form{
         display: flex;
         align-items: center;
