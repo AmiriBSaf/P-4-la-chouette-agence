@@ -644,7 +644,7 @@ p,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #080808!important;
 }
 .col-sm-12 h1{
     text-align: center;
@@ -655,7 +655,7 @@ label{
     margin-bottom: 5px;
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #080808!important;
 }
 .container {
     max-width: 1000px;
@@ -692,14 +692,14 @@ p {
 {
     font-size: 1.3em;
     font-style: italic;
-    color: #575757!important;
+    color: #080808!important;
 }
 
 #citation-auteur
 {
     font-size: 1em;
     font-style: normal;
-    color: #575757!important;
+    color: #080808!important;
 }
 
 .h2-style
@@ -743,7 +743,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #080808!important;
 }
 
 .med-width-whitespace {
