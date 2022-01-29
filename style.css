@@ -1151,3 +1151,8 @@ form{
 h1{
     color: white!important;
 }
+.contact-footer{
+    background-color: #f3976c;
+    width: 100%;
+    height: 50px;
+}
